@@ -1,0 +1,3 @@
+PSNR: 36.145914092786946
+outliers: 561
+The change is more than 8: 8922

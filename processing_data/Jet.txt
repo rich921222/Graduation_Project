@@ -1,0 +1,4 @@
+PSNR: 37.96132456322408
+outliers: 201
+The change is more than 8 (radius): 793
+accuracy: 0.9958807052232658
